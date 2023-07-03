@@ -17,7 +17,3 @@ Prior to that, I graduated from University of Pennsylvania under the supervision
 I got my bachelor's degree from Nankai University, in Tianjin, China.
 
 You can find my [CV](https://onedrive.live.com/edit.aspx?resid=70CBFD8DD724CDEE!473968&ithint=file%2cdocx&authkey=!AOQfX81q8SgA5H8) here.
-
----
-
-Publications
