@@ -12,7 +12,7 @@ My name is Liang Luo (罗量). I am currently a researcher at Meta AI. I work on
 
 I obtained my PhD from the University of Washington. My advisors are Prof.Luis Ceze and Prof.Arvind Krishnamurthy.
 
-Prior to that, I graduated from University of Pennsylvania under the supervision of Prof.Joseph Devietti.
+Prior to that, I graduated from University of Pennsylvania under the supervision of Prof.Joseph Devietti with a Master's degree.
 
 I got my bachelor's degree from Nankai University, in Tianjin, China.
 
