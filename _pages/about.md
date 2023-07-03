@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello there!"
+title: "Greetings!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -16,4 +16,4 @@ Prior to that, I graduated from University of Pennsylvania under the supervision
 
 I got my bachelor's degree from Nankai University, in Tianjin, China.
 
-You can find my [CV](https://onedrive.live.com/edit.aspx?resid=70CBFD8DD724CDEE!473968&ithint=file%2cdocx&authkey=!AOQfX81q8SgA5H8) here.
+You can find my [CV](https://onedrive.live.com/edit.aspx?resid=70CBFD8DD724CDEE!473968&ithint=file%2cdocx&authkey=!AOQfX81q8SgA5H8) here. You can reach me via [LinkedIn](https://www.linkedin.com/in/liangluo/).
